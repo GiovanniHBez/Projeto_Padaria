@@ -1,0 +1,268 @@
+D:\Coisas da Facul 2-Semestre\Interdisciplinar\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.vbproj.AssemblyReference.cache
+D:\Coisas da Facul 2-Semestre\Interdisciplinar\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.vbproj.SuggestedBindingRedirects.cache
+D:\Coisas da Facul 2-Semestre\Interdisciplinar\La Pannetteria Java - Copia\prj_padaria\obj\Debug\Interop.ADODB.dll
+D:\Coisas da Facul 2-Semestre\Interdisciplinar\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.vbproj.ResolveComReference.cache
+D:\Coisas da Facul 2-Semestre\Interdisciplinar\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.Admin.resources
+D:\Coisas da Facul 2-Semestre\Interdisciplinar\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.Autenticacao.resources
+D:\Coisas da Facul 2-Semestre\Interdisciplinar\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.editarestoque.resources
+D:\Coisas da Facul 2-Semestre\Interdisciplinar\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.Cadastro.resources
+D:\Coisas da Facul 2-Semestre\Interdisciplinar\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.Reservas.resources
+D:\Coisas da Facul 2-Semestre\Interdisciplinar\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.Resources.resources
+D:\Coisas da Facul 2-Semestre\Interdisciplinar\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.vbproj.GenerateResource.cache
+D:\Coisas da Facul 2-Semestre\Interdisciplinar\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.vbproj.CoreCompileInputs.cache
+D:\Coisas da Facul 2-Semestre\Interdisciplinar\La Pannetteria Java - Copia\prj_padaria\bin\Debug\prj_padaria.exe.config
+D:\Coisas da Facul 2-Semestre\Interdisciplinar\La Pannetteria Java - Copia\prj_padaria\bin\Debug\prj_padaria.exe
+D:\Coisas da Facul 2-Semestre\Interdisciplinar\La Pannetteria Java - Copia\prj_padaria\bin\Debug\prj_padaria.pdb
+D:\Coisas da Facul 2-Semestre\Interdisciplinar\La Pannetteria Java - Copia\prj_padaria\bin\Debug\prj_padaria.xml
+D:\Coisas da Facul 2-Semestre\Interdisciplinar\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.exe
+D:\Coisas da Facul 2-Semestre\Interdisciplinar\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.xml
+D:\Coisas da Facul 2-Semestre\Interdisciplinar\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.pdb
+E:\Coisas da Facul 2-Semestre\Interdisciplinar\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.vbproj.AssemblyReference.cache
+E:\Coisas da Facul 2-Semestre\Interdisciplinar\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.vbproj.SuggestedBindingRedirects.cache
+E:\Coisas da Facul 2-Semestre\Interdisciplinar\La Pannetteria Java - Copia\prj_padaria\obj\Debug\Interop.ADODB.dll
+E:\Coisas da Facul 2-Semestre\Interdisciplinar\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.vbproj.ResolveComReference.cache
+E:\Coisas da Facul 2-Semestre\Interdisciplinar\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.Admin.resources
+E:\Coisas da Facul 2-Semestre\Interdisciplinar\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.Autenticacao.resources
+E:\Coisas da Facul 2-Semestre\Interdisciplinar\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.editarestoque.resources
+E:\Coisas da Facul 2-Semestre\Interdisciplinar\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.Cadastro.resources
+E:\Coisas da Facul 2-Semestre\Interdisciplinar\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.Produtos.resources
+E:\Coisas da Facul 2-Semestre\Interdisciplinar\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.Reservas.resources
+E:\Coisas da Facul 2-Semestre\Interdisciplinar\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.Estoque.resources
+E:\Coisas da Facul 2-Semestre\Interdisciplinar\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.Login.resources
+E:\Coisas da Facul 2-Semestre\Interdisciplinar\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.Resources.resources
+E:\Coisas da Facul 2-Semestre\Interdisciplinar\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.vbproj.GenerateResource.cache
+E:\Coisas da Facul 2-Semestre\Interdisciplinar\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.vbproj.CoreCompileInputs.cache
+E:\Coisas da Facul 2-Semestre\Interdisciplinar\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.exe
+E:\Coisas da Facul 2-Semestre\Interdisciplinar\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.xml
+E:\Coisas da Facul 2-Semestre\Interdisciplinar\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.pdb
+E:\Coisas da Facul 2-Semestre\Interdisciplinar\La Pannetteria Java - Copia\prj_padaria\bin\Debug\prj_padaria.exe.config
+E:\Coisas da Facul 2-Semestre\Interdisciplinar\La Pannetteria Java - Copia\prj_padaria\bin\Debug\prj_padaria.exe
+E:\Coisas da Facul 2-Semestre\Interdisciplinar\La Pannetteria Java - Copia\prj_padaria\bin\Debug\prj_padaria.pdb
+E:\Coisas da Facul 2-Semestre\Interdisciplinar\La Pannetteria Java - Copia\prj_padaria\bin\Debug\prj_padaria.xml
+D:\USB DISK\engenhariasoftware\interdisciplinar\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.vbproj.AssemblyReference.cache
+D:\USB DISK\engenhariasoftware\interdisciplinar\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.vbproj.SuggestedBindingRedirects.cache
+D:\USB DISK\engenhariasoftware\interdisciplinar\La Pannetteria Java - Copia\prj_padaria\obj\Debug\Interop.ADODB.dll
+D:\USB DISK\engenhariasoftware\interdisciplinar\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.vbproj.ResolveComReference.cache
+D:\USB DISK\engenhariasoftware\interdisciplinar\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.Admin.resources
+D:\USB DISK\engenhariasoftware\interdisciplinar\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.Autenticacao.resources
+D:\USB DISK\engenhariasoftware\interdisciplinar\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.editarestoque.resources
+D:\USB DISK\engenhariasoftware\interdisciplinar\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.Cadastro.resources
+D:\USB DISK\engenhariasoftware\interdisciplinar\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.listprodutos.resources
+D:\USB DISK\engenhariasoftware\interdisciplinar\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.Reservas.resources
+D:\USB DISK\engenhariasoftware\interdisciplinar\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.Resources.resources
+D:\USB DISK\engenhariasoftware\interdisciplinar\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.vbproj.GenerateResource.cache
+D:\USB DISK\engenhariasoftware\interdisciplinar\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.vbproj.CoreCompileInputs.cache
+D:\USB DISK\engenhariasoftware\interdisciplinar\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.exe
+D:\USB DISK\engenhariasoftware\interdisciplinar\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.xml
+D:\USB DISK\engenhariasoftware\interdisciplinar\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.pdb
+D:\USB DISK\engenhariasoftware\interdisciplinar\La Pannetteria Java - Copia\prj_padaria\bin\Debug\prj_padaria.exe.config
+D:\USB DISK\engenhariasoftware\interdisciplinar\La Pannetteria Java - Copia\prj_padaria\bin\Debug\prj_padaria.exe
+D:\USB DISK\engenhariasoftware\interdisciplinar\La Pannetteria Java - Copia\prj_padaria\bin\Debug\prj_padaria.pdb
+D:\USB DISK\engenhariasoftware\interdisciplinar\La Pannetteria Java - Copia\prj_padaria\bin\Debug\prj_padaria.xml
+D:\Coisas da Facul 2-Semestre\Interdisciplinar\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.listprodutos.resources
+D:\Coisas da Facul 2-Semestre\Interdisciplinar\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.Menu_Principal.resources
+C:\Users\vani_\Desktop\La Pannetteria Java - Copia\prj_padaria\bin\Debug\prj_padaria.exe.config
+C:\Users\vani_\Desktop\La Pannetteria Java - Copia\prj_padaria\bin\Debug\prj_padaria.exe
+C:\Users\vani_\Desktop\La Pannetteria Java - Copia\prj_padaria\bin\Debug\prj_padaria.pdb
+C:\Users\vani_\Desktop\La Pannetteria Java - Copia\prj_padaria\bin\Debug\prj_padaria.xml
+C:\Users\vani_\Desktop\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.vbproj.AssemblyReference.cache
+C:\Users\vani_\Desktop\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.vbproj.SuggestedBindingRedirects.cache
+C:\Users\vani_\Desktop\La Pannetteria Java - Copia\prj_padaria\obj\Debug\Interop.ADODB.dll
+C:\Users\vani_\Desktop\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.vbproj.ResolveComReference.cache
+C:\Users\vani_\Desktop\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.Admin.resources
+C:\Users\vani_\Desktop\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.Autenticacao.resources
+C:\Users\vani_\Desktop\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.editarestoque.resources
+C:\Users\vani_\Desktop\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.Cadastro.resources
+C:\Users\vani_\Desktop\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.Menu_Principal.resources
+C:\Users\vani_\Desktop\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.Reservas.resources
+C:\Users\vani_\Desktop\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.Resources.resources
+C:\Users\vani_\Desktop\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.vbproj.GenerateResource.cache
+C:\Users\vani_\Desktop\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.vbproj.CoreCompileInputs.cache
+C:\Users\vani_\Desktop\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.exe
+C:\Users\vani_\Desktop\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.xml
+C:\Users\vani_\Desktop\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.pdb
+C:\Users\vani_\Desktop\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.Produtos.resources
+C:\Users\vani_\Desktop\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.Novo_Produto.resources
+C:\Users\vani_\Desktop\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.Calendario.resources
+C:\Users\vani_\Desktop\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.DisplayClandario.resources
+C:\Users\vani_\Desktop\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.Visualizar_Mesas.resources
+D:\Padaria 2\La Pannetteria Java - Copia\prj_padaria\bin\Debug\prj_padaria.exe.config
+D:\Padaria 2\La Pannetteria Java - Copia\prj_padaria\bin\Debug\prj_padaria.exe
+D:\Padaria 2\La Pannetteria Java - Copia\prj_padaria\bin\Debug\prj_padaria.pdb
+D:\Padaria 2\La Pannetteria Java - Copia\prj_padaria\bin\Debug\prj_padaria.xml
+D:\Padaria 2\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.vbproj.AssemblyReference.cache
+D:\Padaria 2\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.vbproj.SuggestedBindingRedirects.cache
+D:\Padaria 2\La Pannetteria Java - Copia\prj_padaria\obj\Debug\Interop.ADODB.dll
+D:\Padaria 2\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.vbproj.ResolveComReference.cache
+D:\Padaria 2\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.Admin.resources
+D:\Padaria 2\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.Autenticacao.resources
+D:\Padaria 2\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.Beneficios_Reserva.resources
+D:\Padaria 2\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.Calendario.resources
+D:\Padaria 2\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.DisplayClandario.resources
+D:\Padaria 2\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.editarestoque.resources
+D:\Padaria 2\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.Cadastro.resources
+D:\Padaria 2\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.Menu_Principal.resources
+D:\Padaria 2\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.Novo_Produto.resources
+D:\Padaria 2\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.Produtos.resources
+D:\Padaria 2\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.Reservas.resources
+D:\Padaria 2\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.Resources.resources
+D:\Padaria 2\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.Visualizar_Mesas.resources
+D:\Padaria 2\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.vbproj.GenerateResource.cache
+D:\Padaria 2\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.vbproj.CoreCompileInputs.cache
+D:\Padaria 2\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.exe
+D:\Padaria 2\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.xml
+D:\Padaria 2\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.pdb
+D:\USB DISK\engenhariasoftware\interdisciplinar\La Pannetteria Java\La Pannetteria Java - Copia\prj_padaria\bin\Debug\prj_padaria.exe.config
+D:\USB DISK\engenhariasoftware\interdisciplinar\La Pannetteria Java\La Pannetteria Java - Copia\prj_padaria\bin\Debug\prj_padaria.exe
+D:\USB DISK\engenhariasoftware\interdisciplinar\La Pannetteria Java\La Pannetteria Java - Copia\prj_padaria\bin\Debug\prj_padaria.pdb
+D:\USB DISK\engenhariasoftware\interdisciplinar\La Pannetteria Java\La Pannetteria Java - Copia\prj_padaria\bin\Debug\prj_padaria.xml
+D:\USB DISK\engenhariasoftware\interdisciplinar\La Pannetteria Java\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.vbproj.AssemblyReference.cache
+D:\USB DISK\engenhariasoftware\interdisciplinar\La Pannetteria Java\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.vbproj.SuggestedBindingRedirects.cache
+D:\USB DISK\engenhariasoftware\interdisciplinar\La Pannetteria Java\La Pannetteria Java - Copia\prj_padaria\obj\Debug\Interop.ADODB.dll
+D:\USB DISK\engenhariasoftware\interdisciplinar\La Pannetteria Java\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.vbproj.ResolveComReference.cache
+D:\USB DISK\engenhariasoftware\interdisciplinar\La Pannetteria Java\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.Admin.resources
+D:\USB DISK\engenhariasoftware\interdisciplinar\La Pannetteria Java\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.Autenticacao.resources
+D:\USB DISK\engenhariasoftware\interdisciplinar\La Pannetteria Java\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.Beneficios_Reserva.resources
+D:\USB DISK\engenhariasoftware\interdisciplinar\La Pannetteria Java\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.Calendario.resources
+D:\USB DISK\engenhariasoftware\interdisciplinar\La Pannetteria Java\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.DisplayClandario.resources
+D:\USB DISK\engenhariasoftware\interdisciplinar\La Pannetteria Java\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.editarestoque.resources
+D:\USB DISK\engenhariasoftware\interdisciplinar\La Pannetteria Java\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.Cadastro.resources
+D:\USB DISK\engenhariasoftware\interdisciplinar\La Pannetteria Java\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.Menu_Principal.resources
+D:\USB DISK\engenhariasoftware\interdisciplinar\La Pannetteria Java\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.Novo_Produto.resources
+D:\USB DISK\engenhariasoftware\interdisciplinar\La Pannetteria Java\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.Produtos.resources
+D:\USB DISK\engenhariasoftware\interdisciplinar\La Pannetteria Java\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.Reservas.resources
+D:\USB DISK\engenhariasoftware\interdisciplinar\La Pannetteria Java\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.Resources.resources
+D:\USB DISK\engenhariasoftware\interdisciplinar\La Pannetteria Java\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.Visualizar_Mesas.resources
+D:\USB DISK\engenhariasoftware\interdisciplinar\La Pannetteria Java\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.vbproj.GenerateResource.cache
+D:\USB DISK\engenhariasoftware\interdisciplinar\La Pannetteria Java\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.vbproj.CoreCompileInputs.cache
+D:\USB DISK\engenhariasoftware\interdisciplinar\La Pannetteria Java\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.exe
+D:\USB DISK\engenhariasoftware\interdisciplinar\La Pannetteria Java\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.xml
+D:\USB DISK\engenhariasoftware\interdisciplinar\La Pannetteria Java\La Pannetteria Java - Copia\prj_padaria\obj\Debug\prj_padaria.pdb
+C:\Users\vani_\Desktop\Pada\padaria arumado\prj_padaria\bin\Debug\prj_padaria.exe.config
+C:\Users\vani_\Desktop\Pada\padaria arumado\prj_padaria\bin\Debug\prj_padaria.exe
+C:\Users\vani_\Desktop\Pada\padaria arumado\prj_padaria\bin\Debug\prj_padaria.pdb
+C:\Users\vani_\Desktop\Pada\padaria arumado\prj_padaria\bin\Debug\prj_padaria.xml
+C:\Users\vani_\Desktop\Pada\padaria arumado\prj_padaria\obj\Debug\prj_padaria.vbproj.AssemblyReference.cache
+C:\Users\vani_\Desktop\Pada\padaria arumado\prj_padaria\obj\Debug\prj_padaria.vbproj.SuggestedBindingRedirects.cache
+C:\Users\vani_\Desktop\Pada\padaria arumado\prj_padaria\obj\Debug\Interop.ADODB.dll
+C:\Users\vani_\Desktop\Pada\padaria arumado\prj_padaria\obj\Debug\prj_padaria.vbproj.ResolveComReference.cache
+C:\Users\vani_\Desktop\Pada\padaria arumado\prj_padaria\obj\Debug\prj_padaria.Admin.resources
+C:\Users\vani_\Desktop\Pada\padaria arumado\prj_padaria\obj\Debug\prj_padaria.Autenticacao.resources
+C:\Users\vani_\Desktop\Pada\padaria arumado\prj_padaria\obj\Debug\prj_padaria.Beneficios_Reserva.resources
+C:\Users\vani_\Desktop\Pada\padaria arumado\prj_padaria\obj\Debug\prj_padaria.Calendario.resources
+C:\Users\vani_\Desktop\Pada\padaria arumado\prj_padaria\obj\Debug\prj_padaria.DisplayClandario.resources
+C:\Users\vani_\Desktop\Pada\padaria arumado\prj_padaria\obj\Debug\prj_padaria.editarestoque.resources
+C:\Users\vani_\Desktop\Pada\padaria arumado\prj_padaria\obj\Debug\prj_padaria.Cadastro.resources
+C:\Users\vani_\Desktop\Pada\padaria arumado\prj_padaria\obj\Debug\prj_padaria.Menu_Principal.resources
+C:\Users\vani_\Desktop\Pada\padaria arumado\prj_padaria\obj\Debug\prj_padaria.Novo_Produto.resources
+C:\Users\vani_\Desktop\Pada\padaria arumado\prj_padaria\obj\Debug\prj_padaria.Produtos.resources
+C:\Users\vani_\Desktop\Pada\padaria arumado\prj_padaria\obj\Debug\prj_padaria.Reservas.resources
+C:\Users\vani_\Desktop\Pada\padaria arumado\prj_padaria\obj\Debug\prj_padaria.Resources.resources
+C:\Users\vani_\Desktop\Pada\padaria arumado\prj_padaria\obj\Debug\prj_padaria.Visualizar_Mesas.resources
+C:\Users\vani_\Desktop\Pada\padaria arumado\prj_padaria\obj\Debug\prj_padaria.vbproj.GenerateResource.cache
+C:\Users\vani_\Desktop\Pada\padaria arumado\prj_padaria\obj\Debug\prj_padaria.vbproj.CoreCompileInputs.cache
+C:\Users\vani_\Desktop\Pada\padaria arumado\prj_padaria\obj\Debug\prj_padaria.exe
+C:\Users\vani_\Desktop\Pada\padaria arumado\prj_padaria\obj\Debug\prj_padaria.xml
+C:\Users\vani_\Desktop\Pada\padaria arumado\prj_padaria\obj\Debug\prj_padaria.pdb
+D:\Padaria Concluido\prj_padaria\bin\Debug\prj_padaria.exe.config
+D:\Padaria Concluido\prj_padaria\bin\Debug\prj_padaria.exe
+D:\Padaria Concluido\prj_padaria\bin\Debug\prj_padaria.pdb
+D:\Padaria Concluido\prj_padaria\bin\Debug\prj_padaria.xml
+D:\Padaria Concluido\prj_padaria\obj\Debug\prj_padaria.vbproj.AssemblyReference.cache
+D:\Padaria Concluido\prj_padaria\obj\Debug\prj_padaria.vbproj.SuggestedBindingRedirects.cache
+D:\Padaria Concluido\prj_padaria\obj\Debug\Interop.ADODB.dll
+D:\Padaria Concluido\prj_padaria\obj\Debug\prj_padaria.vbproj.ResolveComReference.cache
+D:\Padaria Concluido\prj_padaria\obj\Debug\prj_padaria.Admin.resources
+D:\Padaria Concluido\prj_padaria\obj\Debug\prj_padaria.Autenticacao.resources
+D:\Padaria Concluido\prj_padaria\obj\Debug\prj_padaria.Beneficios_Reserva.resources
+D:\Padaria Concluido\prj_padaria\obj\Debug\prj_padaria.Calendario.resources
+D:\Padaria Concluido\prj_padaria\obj\Debug\prj_padaria.DisplayClandario.resources
+D:\Padaria Concluido\prj_padaria\obj\Debug\prj_padaria.editarestoque.resources
+D:\Padaria Concluido\prj_padaria\obj\Debug\prj_padaria.Cadastro.resources
+D:\Padaria Concluido\prj_padaria\obj\Debug\prj_padaria.Menu_Principal.resources
+D:\Padaria Concluido\prj_padaria\obj\Debug\prj_padaria.Novo_Produto.resources
+D:\Padaria Concluido\prj_padaria\obj\Debug\prj_padaria.Produtos.resources
+D:\Padaria Concluido\prj_padaria\obj\Debug\prj_padaria.Reservas.resources
+D:\Padaria Concluido\prj_padaria\obj\Debug\prj_padaria.Resources.resources
+D:\Padaria Concluido\prj_padaria\obj\Debug\prj_padaria.Visualizar_Mesas.resources
+D:\Padaria Concluido\prj_padaria\obj\Debug\prj_padaria.vbproj.GenerateResource.cache
+D:\Padaria Concluido\prj_padaria\obj\Debug\prj_padaria.vbproj.CoreCompileInputs.cache
+D:\Padaria Concluido\prj_padaria\obj\Debug\prj_padaria.exe
+D:\Padaria Concluido\prj_padaria\obj\Debug\prj_padaria.xml
+D:\Padaria Concluido\prj_padaria\obj\Debug\prj_padaria.pdb
+D:\Coisas da Facul 2-Semestre\Padaria Concluido\prj_padaria\bin\Debug\prj_padaria.exe.config
+D:\Coisas da Facul 2-Semestre\Padaria Concluido\prj_padaria\bin\Debug\prj_padaria.exe
+D:\Coisas da Facul 2-Semestre\Padaria Concluido\prj_padaria\bin\Debug\prj_padaria.pdb
+D:\Coisas da Facul 2-Semestre\Padaria Concluido\prj_padaria\bin\Debug\prj_padaria.xml
+D:\Coisas da Facul 2-Semestre\Padaria Concluido\prj_padaria\obj\Debug\prj_padaria.vbproj.AssemblyReference.cache
+D:\Coisas da Facul 2-Semestre\Padaria Concluido\prj_padaria\obj\Debug\prj_padaria.vbproj.SuggestedBindingRedirects.cache
+D:\Coisas da Facul 2-Semestre\Padaria Concluido\prj_padaria\obj\Debug\Interop.ADODB.dll
+D:\Coisas da Facul 2-Semestre\Padaria Concluido\prj_padaria\obj\Debug\prj_padaria.vbproj.ResolveComReference.cache
+D:\Coisas da Facul 2-Semestre\Padaria Concluido\prj_padaria\obj\Debug\prj_padaria.Admin.resources
+D:\Coisas da Facul 2-Semestre\Padaria Concluido\prj_padaria\obj\Debug\prj_padaria.Autenticacao.resources
+D:\Coisas da Facul 2-Semestre\Padaria Concluido\prj_padaria\obj\Debug\prj_padaria.Beneficios_Reserva.resources
+D:\Coisas da Facul 2-Semestre\Padaria Concluido\prj_padaria\obj\Debug\prj_padaria.Calendario.resources
+D:\Coisas da Facul 2-Semestre\Padaria Concluido\prj_padaria\obj\Debug\prj_padaria.DisplayClandario.resources
+D:\Coisas da Facul 2-Semestre\Padaria Concluido\prj_padaria\obj\Debug\prj_padaria.editarestoque.resources
+D:\Coisas da Facul 2-Semestre\Padaria Concluido\prj_padaria\obj\Debug\prj_padaria.Cadastro.resources
+D:\Coisas da Facul 2-Semestre\Padaria Concluido\prj_padaria\obj\Debug\prj_padaria.Menu_Principal.resources
+D:\Coisas da Facul 2-Semestre\Padaria Concluido\prj_padaria\obj\Debug\prj_padaria.Novo_Produto.resources
+D:\Coisas da Facul 2-Semestre\Padaria Concluido\prj_padaria\obj\Debug\prj_padaria.Produtos.resources
+D:\Coisas da Facul 2-Semestre\Padaria Concluido\prj_padaria\obj\Debug\prj_padaria.Reservas.resources
+D:\Coisas da Facul 2-Semestre\Padaria Concluido\prj_padaria\obj\Debug\prj_padaria.Resources.resources
+D:\Coisas da Facul 2-Semestre\Padaria Concluido\prj_padaria\obj\Debug\prj_padaria.Visualizar_Mesas.resources
+D:\Coisas da Facul 2-Semestre\Padaria Concluido\prj_padaria\obj\Debug\prj_padaria.vbproj.GenerateResource.cache
+D:\Coisas da Facul 2-Semestre\Padaria Concluido\prj_padaria\obj\Debug\prj_padaria.vbproj.CoreCompileInputs.cache
+D:\Coisas da Facul 2-Semestre\Padaria Concluido\prj_padaria\obj\Debug\prj_padaria.exe
+D:\Coisas da Facul 2-Semestre\Padaria Concluido\prj_padaria\obj\Debug\prj_padaria.xml
+D:\Coisas da Facul 2-Semestre\Padaria Concluido\prj_padaria\obj\Debug\prj_padaria.pdb
+E:\Coisas da Facul 2-Semestre\Padaria Concluido\prj_padaria\bin\Debug\prj_padaria.exe.config
+E:\Coisas da Facul 2-Semestre\Padaria Concluido\prj_padaria\bin\Debug\prj_padaria.exe
+E:\Coisas da Facul 2-Semestre\Padaria Concluido\prj_padaria\bin\Debug\prj_padaria.pdb
+E:\Coisas da Facul 2-Semestre\Padaria Concluido\prj_padaria\bin\Debug\prj_padaria.xml
+E:\Coisas da Facul 2-Semestre\Padaria Concluido\prj_padaria\obj\Debug\prj_padaria.vbproj.AssemblyReference.cache
+E:\Coisas da Facul 2-Semestre\Padaria Concluido\prj_padaria\obj\Debug\Interop.ADODB.dll
+E:\Coisas da Facul 2-Semestre\Padaria Concluido\prj_padaria\obj\Debug\prj_padaria.vbproj.ResolveComReference.cache
+E:\Coisas da Facul 2-Semestre\Padaria Concluido\prj_padaria\obj\Debug\prj_padaria.Admin.resources
+E:\Coisas da Facul 2-Semestre\Padaria Concluido\prj_padaria\obj\Debug\prj_padaria.Autenticacao.resources
+E:\Coisas da Facul 2-Semestre\Padaria Concluido\prj_padaria\obj\Debug\prj_padaria.Beneficios_Reserva.resources
+E:\Coisas da Facul 2-Semestre\Padaria Concluido\prj_padaria\obj\Debug\prj_padaria.Calendario.resources
+E:\Coisas da Facul 2-Semestre\Padaria Concluido\prj_padaria\obj\Debug\prj_padaria.DisplayClandario.resources
+E:\Coisas da Facul 2-Semestre\Padaria Concluido\prj_padaria\obj\Debug\prj_padaria.editarestoque.resources
+E:\Coisas da Facul 2-Semestre\Padaria Concluido\prj_padaria\obj\Debug\prj_padaria.Cadastro.resources
+E:\Coisas da Facul 2-Semestre\Padaria Concluido\prj_padaria\obj\Debug\prj_padaria.Menu_Principal.resources
+E:\Coisas da Facul 2-Semestre\Padaria Concluido\prj_padaria\obj\Debug\prj_padaria.Novo_Produto.resources
+E:\Coisas da Facul 2-Semestre\Padaria Concluido\prj_padaria\obj\Debug\prj_padaria.Produtos.resources
+E:\Coisas da Facul 2-Semestre\Padaria Concluido\prj_padaria\obj\Debug\prj_padaria.Reservas.resources
+E:\Coisas da Facul 2-Semestre\Padaria Concluido\prj_padaria\obj\Debug\prj_padaria.Resources.resources
+E:\Coisas da Facul 2-Semestre\Padaria Concluido\prj_padaria\obj\Debug\prj_padaria.Visualizar_Mesas.resources
+E:\Coisas da Facul 2-Semestre\Padaria Concluido\prj_padaria\obj\Debug\prj_padaria.vbproj.GenerateResource.cache
+E:\Coisas da Facul 2-Semestre\Padaria Concluido\prj_padaria\obj\Debug\prj_padaria.vbproj.CoreCompileInputs.cache
+E:\Coisas da Facul 2-Semestre\Padaria Concluido\prj_padaria\obj\Debug\prj_padaria.exe
+E:\Coisas da Facul 2-Semestre\Padaria Concluido\prj_padaria\obj\Debug\prj_padaria.xml
+E:\Coisas da Facul 2-Semestre\Padaria Concluido\prj_padaria\obj\Debug\prj_padaria.pdb
+E:\Coisas da Facul 2-Semestre\Projeto Padaria\prj_padaria\bin\Debug\prj_padaria.exe.config
+E:\Coisas da Facul 2-Semestre\Projeto Padaria\prj_padaria\bin\Debug\prj_padaria.exe
+E:\Coisas da Facul 2-Semestre\Projeto Padaria\prj_padaria\bin\Debug\prj_padaria.pdb
+E:\Coisas da Facul 2-Semestre\Projeto Padaria\prj_padaria\bin\Debug\prj_padaria.xml
+E:\Coisas da Facul 2-Semestre\Projeto Padaria\prj_padaria\obj\Debug\prj_padaria.vbproj.AssemblyReference.cache
+E:\Coisas da Facul 2-Semestre\Projeto Padaria\prj_padaria\obj\Debug\Interop.ADODB.dll
+E:\Coisas da Facul 2-Semestre\Projeto Padaria\prj_padaria\obj\Debug\prj_padaria.vbproj.ResolveComReference.cache
+E:\Coisas da Facul 2-Semestre\Projeto Padaria\prj_padaria\obj\Debug\prj_padaria.Admin.resources
+E:\Coisas da Facul 2-Semestre\Projeto Padaria\prj_padaria\obj\Debug\prj_padaria.Autenticacao.resources
+E:\Coisas da Facul 2-Semestre\Projeto Padaria\prj_padaria\obj\Debug\prj_padaria.Beneficios_Reserva.resources
+E:\Coisas da Facul 2-Semestre\Projeto Padaria\prj_padaria\obj\Debug\prj_padaria.Calendario.resources
+E:\Coisas da Facul 2-Semestre\Projeto Padaria\prj_padaria\obj\Debug\prj_padaria.DisplayClandario.resources
+E:\Coisas da Facul 2-Semestre\Projeto Padaria\prj_padaria\obj\Debug\prj_padaria.editarestoque.resources
+E:\Coisas da Facul 2-Semestre\Projeto Padaria\prj_padaria\obj\Debug\prj_padaria.Cadastro.resources
+E:\Coisas da Facul 2-Semestre\Projeto Padaria\prj_padaria\obj\Debug\prj_padaria.Menu_Principal.resources
+E:\Coisas da Facul 2-Semestre\Projeto Padaria\prj_padaria\obj\Debug\prj_padaria.Novo_Produto.resources
+E:\Coisas da Facul 2-Semestre\Projeto Padaria\prj_padaria\obj\Debug\prj_padaria.Produtos.resources
+E:\Coisas da Facul 2-Semestre\Projeto Padaria\prj_padaria\obj\Debug\prj_padaria.Reservas.resources
+E:\Coisas da Facul 2-Semestre\Projeto Padaria\prj_padaria\obj\Debug\prj_padaria.Resources.resources
+E:\Coisas da Facul 2-Semestre\Projeto Padaria\prj_padaria\obj\Debug\prj_padaria.Visualizar_Mesas.resources
+E:\Coisas da Facul 2-Semestre\Projeto Padaria\prj_padaria\obj\Debug\prj_padaria.vbproj.GenerateResource.cache
+E:\Coisas da Facul 2-Semestre\Projeto Padaria\prj_padaria\obj\Debug\prj_padaria.vbproj.CoreCompileInputs.cache
+E:\Coisas da Facul 2-Semestre\Projeto Padaria\prj_padaria\obj\Debug\prj_padaria.exe
+E:\Coisas da Facul 2-Semestre\Projeto Padaria\prj_padaria\obj\Debug\prj_padaria.xml
+E:\Coisas da Facul 2-Semestre\Projeto Padaria\prj_padaria\obj\Debug\prj_padaria.pdb
